@@ -1,0 +1,113 @@
+%!Adobe-FontList 1.14
+%Locale:0x809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tomgrady01\Documents\_OLH\Generic_Janeway_Typeset_Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329333320
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+FullName:Myriad Pro Bold
+MenuName:Myriad Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\tomgrady01\Documents\_OLH\Generic_Janeway_Typeset_Folder\Document fonts\MyriadPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:103472
+FileModTime:1329333320
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-It
+FamilyName:Myriad Pro
+StyleName:Italic
+FullName:Myriad Pro Italic
+MenuName:Myriad Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tomgrady01\Documents\_OLH\Generic_Janeway_Typeset_Folder\Document fonts\MyriadPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:105656
+FileModTime:1329333320
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tomgrady01\Documents\_OLH\Generic_Janeway_Typeset_Folder\Document fonts\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101732
+FileModTime:1329333320
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Semibold
+FamilyName:Myriad Pro
+StyleName:Semibold
+FullName:Myriad Pro Semibold
+MenuName:Myriad Pro Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\tomgrady01\Documents\_OLH\Generic_Janeway_Typeset_Folder\Document fonts\MyriadPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:103564
+FileModTime:1329333320
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
