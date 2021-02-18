@@ -1,4 +1,4 @@
-#An Adobe Indesign Template for Use in Scholarly Communication Typesetting
+# An Adobe Indesign Template for Use in Scholarly Communication Typesetting
 ![Janeway Logo](http://www.openlibhums.org/hosted_files/Janeway-Logo-05.png "Janeway")
 
 This project is part of Janeway: a journal platform designed for publishing scholarly research material. It is developed and maintained by the Centre for Technology and Publishing at Birkbeck, University of London.
