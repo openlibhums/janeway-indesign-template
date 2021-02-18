@@ -4,7 +4,7 @@
 This project is part of Janeway: a journal platform designed for publishing scholarly research material. It is developed and maintained by the Centre for Technology and Publishing at Birkbeck, University of London.
 
 # About
-This is an Adobe InDesign template that you are free to use to typeset your own scholarly publishing articles. All we ask is that you give credit to us if you use or modify the template. Credit should be made to the Centre for Technology and Publishing at Birkbeck, University of London.
+This is an Adobe InDesign template that you are free to use to typeset your own scholarly publishing articles. This template was developed from scratch in house originally for publications at the Open Library of Humanities. All we ask is that you give credit to us if you use or modify the template. Credit should be made to the Centre for Technology and Publishing at Birkbeck, University of London.
 
 # Requirements
 In addition to requiring Adobe InDesign you will need the following fonts, which should be placed in the "Document fonts" folder:
