@@ -26,3 +26,6 @@ If you wish to get in touch about Janeway, contact information is provided below
 * Project Lead - Martin Paul Eve, martin.eve@bbk.ac.uk
 * Senior Publishing Technology Developer - Andy Byers, a.byers@bbk.ac.uk
 * Senior Publishing Technology Developer - Mauro Sanchez, m.sanchez@bbk.ac.uk
+
+# Special thanks
+Thanks to Nicky Borowiec who designed the template and to Tom Grady for the customizations!
