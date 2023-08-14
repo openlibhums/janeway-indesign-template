@@ -23,7 +23,6 @@ You are, of course, free to use different fonts, but these are the defaults, alt
 # Contacts
 If you wish to get in touch about Janeway, contact information is provided below.
 
-* Project Lead - Martin Paul Eve, martin.eve@bbk.ac.uk
 * Senior Publishing Technology Developer - Andy Byers, a.byers@bbk.ac.uk
 * Senior Publishing Technology Developer - Mauro Sanchez, m.sanchez@bbk.ac.uk
 
